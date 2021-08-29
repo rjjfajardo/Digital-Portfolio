@@ -73,7 +73,7 @@ const ProjectDetail = () => {
           alt="rocket"
           className="mr-5"
         />
-        <a href='https://github.com/rjjfajardo'  target="_blank" className="text-lg">Website</a>
+        <a href='https://github.com/rjjfajardo' className="text-lg">Website</a>
       </button>
     </div>
   );
